@@ -10,7 +10,7 @@ Eclipse IDE 2024. Version 2022-06 (04.24.0)
 
 ## <strong> Features </strong> ##
 • Prints out an ASCII image
-• Uses a print statement to dispay text
+• Uses a print statement to display text
 
 
 
