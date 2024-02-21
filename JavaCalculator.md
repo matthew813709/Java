@@ -1,4 +1,4 @@
-# <strong> MathMagc </strong> #
+# <strong> Java Calculator </strong> #
 
 ## <strong> Description </strong> ##
 A sample file using Java to calculate and print out a series of instructions.
