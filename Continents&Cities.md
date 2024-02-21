@@ -6,7 +6,7 @@ A sample file using Java to calculate and print out a statement based on a serie
 ## <strong> Technologies Used </strong> ##
 Eclipse IDE 2024. Version 2022-06 (04.24.0)
 
-![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/db26e9532c099a11844db55b8ff732057a49b888/Screenshot%202024-02-20%20132703.png">
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/db26e9532c099a11844db55b8ff732057a49b888/Screenshot%202024-02-20%20135530.png">
 
 ## <strong> Features </strong> ##
 • Demonstration of the Java case-switch function and the break function
