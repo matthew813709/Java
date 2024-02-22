@@ -10,7 +10,7 @@ Eclipse IDE 2024. Version 2022-06 (04.24.0)
 
 ## <strong> Features </strong> ##
 • Demonstration of the string method, the index method, the length method, print statements, the if-else statement & the final feature
-• Prints out a DNA strand of choice and it's length, respectively
+• Prints out a protein of choice and it's length, respectively
 
 
 
